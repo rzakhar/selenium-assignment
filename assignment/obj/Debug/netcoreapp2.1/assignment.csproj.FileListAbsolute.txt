@@ -1,0 +1,14 @@
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/assignment.deps.json
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/assignment.runtimeconfig.json
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/assignment.runtimeconfig.dev.json
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/assignment.dll
+/Users/rzakhar/Projects/assignment/assignment/bin/Debug/netcoreapp2.1/assignment.pdb
+/Users/rzakhar/Projects/assignment/assignment/obj/Debug/netcoreapp2.1/assignment.csproj.CoreCompileInputs.cache
+/Users/rzakhar/Projects/assignment/assignment/obj/Debug/netcoreapp2.1/assignment.AssemblyInfoInputs.cache
+/Users/rzakhar/Projects/assignment/assignment/obj/Debug/netcoreapp2.1/assignment.AssemblyInfo.cs
+/Users/rzakhar/Projects/assignment/assignment/obj/Debug/netcoreapp2.1/assignment.dll
+/Users/rzakhar/Projects/assignment/assignment/obj/Debug/netcoreapp2.1/assignment.pdb
+/Users/rzakhar/Projects/assignment/assignment/obj/Debug/netcoreapp2.1/assignment.csprojAssemblyReference.cache

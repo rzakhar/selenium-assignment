@@ -18,7 +18,7 @@ namespace assignment.Pages
         public DuckDuckGoSearchResultsPage CheckTopResultLink(string url)
         {
             string href = TopSearchResultLink.GetAttribute("href");
-            Assert.AreEqual(url, href);
+            Assert.AreEqual(url, href, "The Top Result URL is Unexpected");
 
             return this;
         }

@@ -24,8 +24,8 @@ namespace assignment.Pages
             WebDriverWait wait = new WebDriverWait(driver, new TimeSpan(0, 0, 10));
             wait.Until(driver => Logo);
 
-            Assert.AreEqual(pageUrl, driver.Url);
-            Assert.AreEqual(pageTitle, driver.Title);
+            Assert.AreEqual(pageUrl, driver.Url, "Page URL is Unexpected");
+            Assert.AreEqual(pageTitle, driver.Title, "Page Title is Unexpected");
         }
     }
 }
